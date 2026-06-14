@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial Procudan chatbot"
+git branch -M main
+git remote add origin https://github.com/USERNAME/procudan.git
+git push -u origin main
